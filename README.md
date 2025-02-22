@@ -98,6 +98,10 @@ I promise I'm working on a few.
 
 </p>
 
+<p>
+  💾 My Book
+  
+</p>
 
 <!--
 **ethanrgibson/ethanrgibson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
