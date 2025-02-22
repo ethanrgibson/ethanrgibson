@@ -87,22 +87,22 @@ I promise I'm working on a few.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ethanrgibson&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="ethanrgibson's GitHub Stats" />
 
-</p>
 
-<p>
+
 <h2>🧃Hobbies and Pastimes</h2>
 
 🦍 My Podcast:
 
 [<img src="Podcast New cover.png" width ="490" height="330">](https://open.spotify.com/show/4tDZmFNHrKg7QYaZcAN9n8?si=V_Ql7ZseQ1ucI7L6FqIsuw)
 
-</p>
 
-<p>
-  💾 My Book
 
-  [<img src="Nonchalant Perfectionism Cover.jpeg" width ="490" height="330">]([https://open.spotify.com/show/4tDZmFNHrKg7QYaZcAN9n8?si=V_Ql7ZseQ1ucI7L6FqIsuw](https://www.amazon.com/Nonchalant-Perfectionism-Developing-Emotional-Resilience-ebook/dp/B0CNQK27M2/ref=sr_1_1?crid=3EAA7QBAENYH4&dib=eyJ2IjoiMSJ9.BfPdRPmp-OctnEFzEVLh_GihJuUuqfgz58EbTxSivrCeMnC-OJBQjT9t7jW0wlM23plPKdGNe3HBzJiARu2KitOfbUOXQei_fFCPuRsiC5EVLeBzh3_-ZhC7Ua-c2uhW.ngsNWmvWKRM91O-pSmKFq-IXQjNVxMwUz8C_1OGdB2A&dib_tag=se&keywords=nonchalant+perfectionism&qid=1740265096&sprefix=nonchalant%2Caps%2C248&sr=8-1))
+
+  💾 I like to write, so here's my book:
+
+  [<img src="Nonchalant Perfectionism cover.jpeg" width ="330" height="500">]([https://open.spotify.com/show/4tDZmFNHrKg7QYaZcAN9n8?si=V_Ql7ZseQ1ucI7L6FqIsuw](https://www.amazon.com/Nonchalant-Perfectionism-Developing-Emotional-Resilience-ebook/dp/B0CNQK27M2/ref=sr_1_1?crid=3EAA7QBAENYH4&dib=eyJ2IjoiMSJ9.BfPdRPmp-OctnEFzEVLh_GihJuUuqfgz58EbTxSivrCeMnC-OJBQjT9t7jW0wlM23plPKdGNe3HBzJiARu2KitOfbUOXQei_fFCPuRsiC5EVLeBzh3_-ZhC7Ua-c2uhW.ngsNWmvWKRM91O-pSmKFq-IXQjNVxMwUz8C_1OGdB2A&dib_tag=se&keywords=nonchalant+perfectionism&qid=1740265096&sprefix=nonchalant%2Caps%2C248&sr=8-1))
   
+
 </p>
 
 <!--
