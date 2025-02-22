@@ -18,10 +18,16 @@
             </thead>
             <tbody class="table-group-divider">
               <tr>
-                <th scope="row">Red Bull Intake</th>
+                <th scope="row">Red Bull Consumption</th>
                 <td> </td>
                 <td> </td>
                 <td>89.6%</td>
+              </tr>
+              <tr>
+                <th scope="row">Confusion</th>
+                <td> </td>
+                <td> </td>
+                <td>50.1%</td>
               </tr>
               <tr>
                 <th scope="row">Backflips</th>
@@ -30,10 +36,10 @@
                 <td>9.4%</td>
               </tr>
               <tr>
-                <th scope="row">Confusion</th>
+                <th scope="row">Led Zeppelin Intake</th>
                 <td> </td>
                 <td> </td>
-                <td>50.1%</td>
+                <td>23.1%</td>
               </tr>
               <tr>
                 <th scope="row">Bench Press</th>
@@ -60,6 +66,38 @@
     </div>
   </div>
 </body>
+
+If you're really curious...
+
+<h2>Other Information 🗿</h2>
+
+<p>
+🥛 I am a Junior Software Developer, currently working to get better at coding. I enjoy the process of constant problem solving. I've worked professionaly in construction management, sales, and customer service. None of those industries offers the same type of challenge as does software development. I look forward to the daily progression and learning that this industry offers, and some days requires.
+</p>
+
+<p>
+<h2>🧉 Featured Projects</h2>
+  
+I promise I'm working on a few.
+
+</p>
+
+<p>
+<h2>🥣 More Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ethanrgibson&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="ethanrgibson's GitHub Stats" />
+
+</p>
+
+<p>
+<h2>🧃Hobbies and Pastimes</h2>
+
+🦍 My Podcast:
+
+[<img src="Podcast New Cover.png">](https://open.spotify.com/show/4tDZmFNHrKg7QYaZcAN9n8?si=V_Ql7ZseQ1ucI7L6FqIsuw )
+
+</p>
+
 
 <!--
 **ethanrgibson/ethanrgibson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
