@@ -94,7 +94,7 @@ I promise I'm working on a few.
 
 🦍 My Podcast:
 
-[<img src="Podcast New cover.png" width ="460" height="230">](https://open.spotify.com/show/4tDZmFNHrKg7QYaZcAN9n8?si=V_Ql7ZseQ1ucI7L6FqIsuw )
+[<img src="Podcast New cover.png" width ="490" height="330">](https://open.spotify.com/show/4tDZmFNHrKg7QYaZcAN9n8?si=V_Ql7ZseQ1ucI7L6FqIsuw )
 
 </p>
 
