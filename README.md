@@ -1,71 +1,74 @@
 <h1>Here's All You Need To Know 🫵🫡</h1>
 
-<body>
-  <div class="container-fluid">
-    <div class="row text-center">
-      <div class="col-md-2">
-        <div class="mt-3 border border-dark border-3">
-          <table class="table">
-            <thead>
-              <span class="fw-bold fs-5">Serving Size: </span>
-              <span class="fw-bold fs-7 text-end">1 Absolute Unit</span>
-              <tr class="text-center">
-                <th scope="col">Nutrition Facts</th>
-                <th></th>
-                <th></th>
-                <th scope="col">%Daily Value</th>
-              </tr>
-            </thead>
-            <tbody class="table-group-divider">
-              <tr>
-                <th scope="row">Red Bull Consumption</th>
-                <td> </td>
-                <td> </td>
-                <td>89.6%</td>
-              </tr>
-              <tr>
-                <th scope="row">Confusion</th>
-                <td> </td>
-                <td> </td>
-                <td>50.1%</td>
-              </tr>
-              <tr>
-                <th scope="row">Backflips</th>
-                <td> </td>
-                <td> </td>
-                <td>9.4%</td>
-              </tr>
-              <tr>
-                <th scope="row">Led Zeppelin Intake</th>
-                <td> </td>
-                <td> </td>
-                <td>23.1%</td>
-              </tr>
-              <tr>
-                <th scope="row">Bench Press</th>
-                <td> </td>
-                <td> </td>
-                <td>225lbs</td>
-              </tr>
-              <tr>
-                <th scope="row">Confidence</th>
-                <td> </td>
-                <td> </td>
-                <td>49.9%</td>
-              </tr>
-              <tr>
-                <th scope="row">Vinyl Collection</th>
-                <td> </td>
-                <td> </td>
-                <td>99.9%</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
-  </div>
-</body>
+
+<table>
+  <tr>
+    <th>Serving Size: 1 Absolute Unit</th>
+    <th>Check out my sick book 👇👇👇</th>
+  </tr>
+  <tr>
+    <td>
+      <table class="table">
+  <thead>
+    <tr class="text-center">
+      <th scope="col">Nutrition Facts</th>
+      <th></th>
+      <th></th>
+      <th scope="col">%Daily Value</th>
+    </tr>
+  </thead>
+  <tbody class="table-group-divider">
+    <tr>
+      <th scope="row">Red Bull Consumption</th>
+      <td> </td>
+      <td> </td>
+      <td>89.6%</td>
+    </tr>
+    <tr>
+      <th scope="row">Confusion</th>
+      <td> </td>
+      <td> </td>
+      <td>50.1%</td>
+    </tr>
+    <tr>
+      <th scope="row">Backflips</th>
+      <td> </td>
+      <td> </td>
+      <td>9.4%</td>
+    </tr>
+    <tr>
+      <th scope="row">Led Zeppelin Intake</th>
+      <td> </td>
+      <td> </td>
+      <td>23.1%</td>
+    </tr>
+    <tr>
+      <th scope="row">Bench Press</th>
+      <td> </td>
+      <td> </td>
+      <td>225lbs</td>
+    </tr>
+    <tr>
+      <th scope="row">Confidence</th>
+      <td> </td>
+      <td> </td>
+      <td>49.9%</td>
+    </tr>
+    <tr>
+      <th scope="row">Vinyl Collection</th>
+      <td> </td>
+      <td> </td>
+      <td>99.9%</td>
+    </tr>
+  </tbody>
+</table>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/Nonchalant-Perfectionism-Developing-Emotional-Resilience-ebook/dp/B0CNQK27M2/ref=sr_1_1?crid=3EAA7QBAENYH4&dib=eyJ2IjoiMSJ9.BfPdRPmp-OctnEFzEVLh_GihJuUuqfgz58EbTxSivrCeMnC-OJBQjT9t7jW0wlM23plPKdGNe3HBzJiARu2KitOfbUOXQei_fFCPuRsiC5EVLeBzh3_-ZhC7Ua-c2uhW.ngsNWmvWKRM91O-pSmKFq-IXQjNVxMwUz8C_1OGdB2A&dib_tag=se&keywords=nonchalant+perfectionism&qid=1740265096&sprefix=nonchalant%2Caps%2C248&sr=8-1" target="_blank"><img src="Nonchalant Perfectionism cover.jpeg" width ="330" height="500"></a>
+    </td>
+  </tr>
+</table>
+
 
 If you're really curious...
 
@@ -100,7 +103,7 @@ I promise I'm working on a few.
 
   💾 I like to write, so here's my book:
 
-  [<img src="Nonchalant Perfectionism cover.jpeg" width ="330" height="500">](https://www.amazon.com/Nonchalant-Perfectionism-Developing-Emotional-Resilience-ebook/dp/B0CNQK27M2/ref=sr_1_1?crid=3EAA7QBAENYH4&dib=eyJ2IjoiMSJ9.BfPdRPmp-OctnEFzEVLh_GihJuUuqfgz58EbTxSivrCeMnC-OJBQjT9t7jW0wlM23plPKdGNe3HBzJiARu2KitOfbUOXQei_fFCPuRsiC5EVLeBzh3_-ZhC7Ua-c2uhW.ngsNWmvWKRM91O-pSmKFq-IXQjNVxMwUz8C_1OGdB2A&dib_tag=se&keywords=nonchalant+perfectionism&qid=1740265096&sprefix=nonchalant%2Caps%2C248&sr=8-1))
+  
   
 
 </p>
