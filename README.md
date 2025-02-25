@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th>Serving Size: 1 Absolute Unit</th>
-    <th>Check out my sick book 👇👇👇</th>
+    <th>Check out my book 👇👇👇</th>
   </tr>
   <tr>
     <td>
