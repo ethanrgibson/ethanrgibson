@@ -60,6 +60,12 @@
       <td> </td>
       <td>99.9%</td>
     </tr>
+    <tr>
+      <th scope="row">Protein</th>
+      <td> </td>
+      <td> </td>
+      <td>Not Enough</td>
+    </tr>
   </tbody>
 </table>
     </td>
@@ -98,13 +104,6 @@ I promise I'm working on a few.
 
 [<img src="Podcast New cover.png" width ="490" height="330">](https://open.spotify.com/show/4tDZmFNHrKg7QYaZcAN9n8?si=V_Ql7ZseQ1ucI7L6FqIsuw)
 
-
-
-
-  💾 I like to write, so here's my book:
-
-  
-  
 
 </p>
 
