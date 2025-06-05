@@ -87,7 +87,7 @@ If you're really curious...
 <p>
 <h2>🧉 Featured Projects</h2>
   
-I promise I'm working on a few.
+Currently creating a website for my vinyl collection. Complete with a CSS animated record player and a pciture of my enitre collection. I call it Waxify. Stay tuned for the finsihed masterpiece.
 
 </p>
 
